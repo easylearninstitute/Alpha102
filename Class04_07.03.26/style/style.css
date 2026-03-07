@@ -1,0 +1,39 @@
+/* div{
+    background-color: purple;
+} */
+
+/* h3 {
+  color: green;
+  font-size: 14px;
+  background-color: gray;
+  text-align: left;
+  font-style: italic;
+} */
+
+#topDiv {
+  background-color: purple;
+}
+
+/* #bDiv{
+    background-color: orange;
+} */
+
+.textContent{
+    color: orange;
+    background-color: gray;
+}
+
+
+.cont{
+    height: 150px;
+    width: 150px;
+    background-color: pink;
+    /* margin-top: 10px; */
+    
+    border: 2px rgb(70, 95, 70) solid;
+    padding: 10px 50px 30px 2px
+}
+.heading{
+    margin-top: 20px;
+    margin-left: 20px;
+}
