@@ -1,0 +1,22 @@
+section {
+  width: 300px;
+  border: 1px black solid;
+  position: relative;
+}
+
+.positonText {
+  position: absolute;
+  bottom: 50%;
+  left: 100px;
+}
+
+/* .button {
+  position: fixed;
+  bottom: 0px;
+  right: 0;
+} */
+
+.hello{
+    position: sticky;
+    top: 0px;
+}
